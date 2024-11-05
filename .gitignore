@@ -1,0 +1,21 @@
+# Ignorar arquivos e configurações do Eclipse
+.classpath
+.project
+.settings/
+.build/
+
+# Diretórios de build e compilação
+target/
+bin/
+
+# Arquivos de cache e temporários
+*.log
+*.tmp
+
+# Dependências locais (se houver)
+lib/
+node_modules/
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
